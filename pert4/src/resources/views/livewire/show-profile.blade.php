@@ -9,12 +9,12 @@
                         <img src="{{ asset('front/images/profile.jpg') }}"
                           class="rounded-circle img-fluid" style="width: 100px;" />
                       </div>
-                    <h5 class="my-3">AQLA HARUN RAMADHANI J.</h5> <!--ISI NAMA SENDIRI-->
+                    <h5 class="my-3">iqbal</h5> <!--ISI NAMA SENDIRI-->
                     <p class="text-muted mb-1">Fakultas Ilmu Komputer</p>
                     <p class="text-muted mb-4">Teknik Informatika</p>
                     <div class="d-flex justify-content-center mb-2">
-                        <button type="button" class="btn btn-outline-primary ms-1">Jakarta</button>
-                        <button type="button" class="btn btn-outline-primary ms-1">01 January 2024</button>
+                        <button type="button" class="btn btn-outline-primary ms-1">Karawang</button>
+                        <button type="button" class="btn btn-outline-primary ms-1">03 Mei 2002</button>
                     </div>
                 </div>
             </div>
