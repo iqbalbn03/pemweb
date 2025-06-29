@@ -1,0 +1,5 @@
+# Data MariaDB
+db/data/
+
+# File Environment
+.env
